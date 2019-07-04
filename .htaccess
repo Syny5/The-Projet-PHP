@@ -1,0 +1,10 @@
+RewriteEngine on
+# Version ligne par ligne :
+#RewriteRule ^1\.html$ /index.php?id=1 [QSA]
+#RewriteRule ^2\.html$ /index.php?id=2 [QSA]
+#RewriteRule ^3\.html$ /index.php?id=3 [QSA]
+#RewriteRule ^4\.html$ /index.php?id=4 [QSA]
+#
+# Version synthétisée :
+# La variable $1 prendra la valeur de la première expéression régulière ([0-9])
+RewriteRule ^([0-9]+)\.html$ /index.php?id=$1 [QSA]

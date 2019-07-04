@@ -4,7 +4,7 @@
         <menu>Accueil</menu>
         <title>Accueil - Maçonnerie Ocordo</title>
         <content><![CDATA[<h1>Maçonnerie Ocordo</h1>
-<p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
+<p id="firstParagraph">Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation de maisons et de construction d’extensions horizontales ou verticales de maisons.</p>
 <p>Nous sommes capables de gérer un projet de rénovation ou d’extension de A à Z grâce à nos entreprises générales de bâtiment partenaires.</p>
 <p>Nous pouvons assurer tous vos travaux de tout corps d’état.</p>
 <h2>Nos dernières réalisations à Nantes</h2>
@@ -21,12 +21,12 @@
 ]]></content>
     </page>
     <page id="2">
-        <menu>Qui sommes nous?</menu>
+        <menu>Qui sommes-nous ?</menu>
         <title>En apprendre plus sur nous - Maçonnerie Ocordo</title>
-        <content><![CDATA[<h1>Qui sommes-nous?</h1>
+        <content><![CDATA[<h1>Qui sommes-nous ?</h1>
 <h2>L’AGENCE DE TRAVAUX OCORDO</h2>
 <h3>Présentation de notre entreprise</h3>
-<p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontale ou verticale de maisons.</p><p>
+<p>Nous sommes un groupement permanent d’entreprises locales du bâtiment spécialisées dans les travaux de rénovation d’appartements et de maisons et de construction d’extensions horizontales ou verticales de maisons.</p><p>
     Nous travaillons exclusivement pour les particuliers.</p>
 <p class="iframeContainer"><iframe src="https://www.youtube.com/embed/Crh5lFpNK0o?feature=oembed" allowfullscreen="" width="500" height="281" frameborder="0"></iframe></p>
 <p>Notre groupement est en mesure de vous proposer les compétences métier dans le gros oeuvre et le second oeuvre :</p><p>
@@ -36,7 +36,7 @@
         Isolation thermique et phonique</li><li>
         Plâtrerie, cloison</li><li>
         Aménagement et agencement de votre intérieur</li><li>
-        Electricité</li><li>
+        Électricité</li><li>
         Plomberie, sanitaire</li><li>
         Chauffage</li><li>
         Peinture et décoration</li><li>
@@ -48,19 +48,19 @@
 Quels sont les avantages en travaillant avec notre groupement ? Simplicité, Sécurité et Prix</p><p>
 Pourquoi la Simplicité ? Parce que vous avez un seul interlocuteur qui est disponible de la préparation au chiffrage de l’ensemble de vos travaux.</p><p>
 
-    Pourquoi la Sécurité ? Par ce que pour élaborer votre projet de travaux de rénovation ou de construction d’extension nous :</p><p>
+    Pourquoi la Sécurité ? Parce que pour élaborer votre projet de travaux de rénovation ou de construction d’extension nous :</p><p>
 <ul>
-    <li>fixons un premier rendez-vous au cours duquel nous vous écoutons nous parlez de votre projet de travaux. À ce stade nous pouvons déjà vous conseiller.</li>
-<li>établissons un chiffrage détaillé lot par lot.</li>
-<li>vous remettons un dossier-devis comprenant les devis détaillés avec les dates prévisionnelles de début et de fin d’intervention,les assurances décennales et la RC professionnelle,</li>
-<li>vous remettons un résumé pratique vous expliquant l’exécution de vos travaux.</li>
+    <li>Fixons un premier rendez-vous au cours duquel nous vous écoutons nous parler de votre projet de travaux. À ce stade nous pouvons déjà vous conseiller.</li>
+<li>Établissons un chiffrage détaillé lot par lot.</li>
+<li>Vous remettons un dossier-devis comprenant les devis détaillés avec les dates prévisionnelles de début et de fin d’intervention, les assurances décennales et la RC professionnelle,</li>
+<li>Vous remettons un résumé pratique vous expliquant l’exécution de vos travaux.</li>
 </ul>
-<p>Toutes les entreprises du bâtiment de notre groupement travaillent en direct sans aucune sous traitance.</p>
+<p>Toutes les entreprises du bâtiment de notre groupement travaillent en direct sans aucune sous-traitance.</p>
 
 <p>Tous les travaux sont couverts par la garantie de parfait achèvement conformément aux règles en vigueur .</p>
 
 <p>Pourquoi le Prix ? Nous avons professionnalisé notre organisation et mis en place des outils de gestion et d’organisation exclusifs. C’est pourquoi nous sommes en mesure de vous faire bénéficier de prix très compétitifs et d’un excellent rapport qualité/prix.<p>
-bénéficier de prix très compétitifs et d’un excellent rapport qualité/prix pour vos travaux de rénovation.]]></content>
+Bénéficier de prix très compétitifs et d’un excellent rapport qualité/prix pour vos travaux de rénovation.]]></content>
     </page>
     <page id="3">
         <menu>Nos clients témoignent</menu>
@@ -69,7 +69,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
 <div class="testimonials-list">
     <div class="quote">
         <h2>Rénovation transformation</h2>
-        <p>Transformation rénovation d’un garage et refaire les murs ( placo), l’electricité (prises, eclairage leds ),le sol ( carrelage), les peintures et changement d’une porte-fenêtre. Devis: précis et rapide Prestations au rythme convenu, réalisation des travaux sans failles, très bonnes prestation Chantier: propreté absolue et nettoyage complet à la fin. Bémol : 2 jours de retard à cause du retard de livraison de la fenêtre, mais vraiment pas grave. Prix: très raisonnable Je recommande Ocordo pour l’efficacité du travail réalisé en amont: devis, tarifs. Ils connaissent le travail.</p>
+        <p>Transformation rénovation d’un garage et refaire les murs ( placo), l’électricité (prises, eclairage leds ), le sol (carrelage), les peintures et changement d’une porte-fenêtre. Devis : précis et rapide. Prestations au rythme convenu, réalisation des travaux sans failles, très bonnes prestation Chantier : propreté absolue et nettoyage complet à la fin. Bémol : 2 jours de retard à cause du retard de livraison de la fenêtre, mais vraiment pas grave. Prix : très raisonnable. Je recommande Ocordo pour l’efficacité du travail réalisé en amont: devis, tarifs. Ils connaissent le travail.</p>
         <p>BrunoPH</p>
     </div>
     <div class="quote">
@@ -101,7 +101,7 @@ bénéficier de prix très compétitifs et d’un excellent rapport qualité/pri
         <label class="mt-3">Votre ville :</label>
         <input name="your-ville" value="" size="40" class="form-control text"  type="text">
         <label class="mt-3">Votre message * :</label>
-        <textarea name="your-message" cols="40" rows="10" class="form-control textarea validates-as-required"  ></textarea>
+        <textarea name="your-message" cols="40" rows="10" class="form-control textarea validates-as-required"></textarea>
     </form>
 </div>]]></content>
     </page>

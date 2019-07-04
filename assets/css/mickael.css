@@ -1,0 +1,33 @@
+/* Textes */
+body{
+    color: black;
+}
+h1{
+    font-size: 3em;
+    font-weight: bold;
+    margin: 1em 0;
+}
+h2{
+    margin: 2em 0;
+}
+
+/* Images de l'accueil */
+.gallery_box_single{
+    margin: 1em 0;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Images */
+.img{
+    margin: 0em 0.6em;
+}
+.nav-item{
+    font-size: 1.25em;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 0.5em;
+}

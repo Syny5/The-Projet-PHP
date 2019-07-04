@@ -1,8 +1,11 @@
 /* Paramètres généraux */ 
 body{
-  background: radial-gradient(white, #89a3bf);
   font-family: 'Montserrat', sans-serif;
 }
+#firstParagraph{
+    margin-top: 20px;
+}
+
 
 /* Liens */
 #logo{
@@ -63,4 +66,13 @@ ul{
 /* Formulaire */
 label{
   font-weight: bold;
+}
+
+input{
+  border: solid 1px black !important;
+}
+
+textarea{
+  border: solid 1px black !important;
+  margin-bottom: 30px;
 }
