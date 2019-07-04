@@ -5,7 +5,7 @@
     // On affiche le contenu des pages en fonction de l'ID.
     $display = $xml->page[$id - 1]; // Les pages commencent à 1, et l'index commence à 0.
     if (!$display){
-        $display = $xml->page[0]; // Si notre utilisateur joue avec l'url, il est renvoyé vers la page d'accueil.
+        $display = $xml->page[0]; // Si notre utilisateur entre un autre chiffre dans l'url, il est renvoyé vers la page d'accueil.
     }
 ?>
 <!DOCTYPE html>
