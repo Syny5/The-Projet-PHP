@@ -1,9 +1,64 @@
-title{
-  color: blue;
+/* Paramètres généraux */ 
+body{
+  background: radial-gradient(white, #89a3bf);
+  font-family: 'Montserrat', sans-serif;
 }
-content{
-  color: red;
+
+/* Liens */
+#logo{
+  font-size: 26px;
+  font-family: 'IM Fell English SC', serif;
+  font-weight: bolder;
 }
-p{
-  color: red;
+a{
+  color: white;
+  font-weight: bold;
+  font-family: 'PT Serif', serif;
+  margin-left: 10px;
+}
+a:hover{
+  color: #c1c1bf;
+  text-decoration: none;
+}
+
+/* Titres */
+h1{
+  font-family: 'Philosopher', sans-serif;
+  font-weight: 1000;
+  color: black;
+  text-align: center;
+}
+h2{
+  color : #5b5b59;
+  font-weight: bolder;
+  font-size: 24px;
+}
+h3{
+  font-weight: bold;
+  font-size: 22px;
+}
+
+/* Images de l'accueil */
+.gallery_box_single{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.caption-text{
+  font-size: 10px;
+}
+
+/* Centrage de la vidéo youtube  */
+.iframeContainer{
+  text-align: center;
+}
+
+/* La liste à puce est faite en carré */
+ul{
+  list-style-type: square;
+}
+
+/* Formulaire */
+label{
+  font-weight: bold;
 }
